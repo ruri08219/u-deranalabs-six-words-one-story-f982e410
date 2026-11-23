@@ -1,10 +1,10 @@
 # Six Words, One Story
 
-[![make.fun](https://img.shields.io/badge/make.fun-u--deranalabs--six--words--one--story--f982e410-blue?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)](https://make.fun/c/u-deranalabs-six-words-one-story-f982e410)
-[![rank](https://img.shields.io/badge/rank-1st-brightgreen?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)](https://github.com/ruri08219/u-deranalabs-six-words-one-story-f982e410)
-[![reward](https://img.shields.io/badge/reward-%245-gold?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)](https://make.fun/c/u-deranalabs-six-words-one-story-f982e410)
+[![make.fun · u-deranalabs-six-words-one-story-f982e410](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
+[![rank](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/ruri08219/u-deranalabs-six-words-one-story-f982e410/rank.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
+[![reward](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/ruri08219/u-deranalabs-six-words-one-story-f982e410/reward.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
 
-An entry for the make.fun competition **"Six Words, One Story"** — a story in exactly six words.
+An entry for the make.fun "Six Words, One Story" competition: a complete story told in exactly six words. One concrete scene, one quiet reversal, one landing that stays with the reader.
 
 > The kettle whistled. Nobody was home.
 
@@ -14,8 +14,6 @@ An entry for the make.fun competition **"Six Words, One Story"** — a story in 
 python3 main.py
 ```
 
-This validates the entry and writes it to `/output/entry.txt`.
-
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT — see `LICENSE`.
